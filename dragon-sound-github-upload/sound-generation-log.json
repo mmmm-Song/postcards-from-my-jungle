@@ -1,0 +1,130 @@
+[
+  {
+    "filename": "dragon-01.wav",
+    "prompt": "A huge dragon giving a deep throaty roar, layered animal growls, powerful chest rumble, isolated creature sound effect",
+    "seed": 42,
+    "requested_duration_seconds": 3.0,
+    "saved_duration_seconds": 3.0,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-02.wav",
+    "prompt": "A small baby dragon making playful high pitched chirps and squeaks, short curious animal calls, close recording",
+    "seed": 137,
+    "requested_duration_seconds": 3.5,
+    "saved_duration_seconds": 3.5,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-03.wav",
+    "prompt": "An angry dragon hissing like a giant reptile, rough rasping breath followed by a sharp snarl, isolated sound effect",
+    "seed": 256,
+    "requested_duration_seconds": 4.0,
+    "saved_duration_seconds": 4.0,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-04.wav",
+    "prompt": "A sleepy dragon purring softly, slow rhythmic breathing, warm low vibrating animal rumble",
+    "seed": 389,
+    "requested_duration_seconds": 4.5,
+    "saved_duration_seconds": 4.5,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-05.wav",
+    "prompt": "A dragon breathing fire, forceful rushing exhalation, a burst of flame and crackling embers, cinematic sound effect",
+    "seed": 512,
+    "requested_duration_seconds": 5.0,
+    "saved_duration_seconds": 5.0,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-06.wav",
+    "prompt": "A distant dragon calling across a mountain valley, long low animal howl with a natural echo",
+    "seed": 678,
+    "requested_duration_seconds": 5.5,
+    "saved_duration_seconds": 5.5,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-07.wav",
+    "prompt": "A water dragon making deep bubbling growls and hollow gurgles, wet amphibian vocalizations beside a stream",
+    "seed": 731,
+    "requested_duration_seconds": 6.0,
+    "saved_duration_seconds": 6.0,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-08.wav",
+    "prompt": "A forest dragon communicating with rapid tongue clicks and short birdlike trills, clear animal recording",
+    "seed": 864,
+    "requested_duration_seconds": 6.5,
+    "saved_duration_seconds": 6.5,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-09.wav",
+    "prompt": "A wounded dragon giving a mournful descending whine, rasping breath and a soft low groan",
+    "seed": 999,
+    "requested_duration_seconds": 7.0,
+    "saved_duration_seconds": 7.0,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-10.wav",
+    "prompt": "A dragon giving three sharp warning barks, harsh reptilian cries followed by a low growl",
+    "seed": 1024,
+    "requested_duration_seconds": 7.5,
+    "saved_duration_seconds": 7.5,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-11.wav",
+    "prompt": "A mother dragon making gentle cooing calls to her young, soft resonant animal murmurs and purrs",
+    "seed": 1187,
+    "requested_duration_seconds": 8.0,
+    "saved_duration_seconds": 8.0,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-12.wav",
+    "prompt": "An ice dragon making a thin piercing whistle, airy breath and a brittle rasping animal cry",
+    "seed": 1314,
+    "requested_duration_seconds": 8.5,
+    "saved_duration_seconds": 8.5,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-13.wav",
+    "prompt": "A territorial dragon producing a long powerful bellow, deep crocodile-like growl layered with a lion roar",
+    "seed": 1456,
+    "requested_duration_seconds": 9.0,
+    "saved_duration_seconds": 9.0,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-14.wav",
+    "prompt": "A young dragon chattering excitedly, a sequence of squeaks, clicks and rising trills",
+    "seed": 1601,
+    "requested_duration_seconds": 9.5,
+    "saved_duration_seconds": 9.5,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-15.wav",
+    "prompt": "A dragon making a haunting melodic call, hollow resonant animal whistles with a gentle forest echo",
+    "seed": 1777,
+    "requested_duration_seconds": 10.0,
+    "saved_duration_seconds": 10.0,
+    "inference_steps": 100
+  },
+  {
+    "filename": "dragon-16.wav",
+    "prompt": "An ancient dragon exhaling slowly and making a very deep gravelly rumble that fades into silence",
+    "seed": 2026,
+    "requested_duration_seconds": 10.5,
+    "saved_duration_seconds": 10.5,
+    "inference_steps": 100
+  }
+]
